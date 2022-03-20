@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.dynamic {
+  width: 60rem;
+  margin: auto;
+}
+
+.chart {
+  width: 80rem;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
+  color: blue;
+}
